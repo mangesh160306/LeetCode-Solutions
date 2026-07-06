@@ -23,7 +23,7 @@ leetcode-solutions/
 | Easy       |    3   |
 | Medium     |    0   |
 | Hard       |    0   |
-| **Total**  |  **0** |
+| **Total**  |  **3** |
 
 > *This table is updated as I solve more problems.*
 
