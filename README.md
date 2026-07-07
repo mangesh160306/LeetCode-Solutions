@@ -60,4 +60,8 @@ leetcode-solutions/
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
