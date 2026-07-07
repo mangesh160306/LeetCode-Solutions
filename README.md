@@ -64,4 +64,16 @@ leetcode-solutions/
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
