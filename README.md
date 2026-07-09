@@ -56,6 +56,7 @@ leetcode-solutions/
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +92,17 @@ leetcode-solutions/
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
