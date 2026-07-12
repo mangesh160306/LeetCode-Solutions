@@ -20,10 +20,10 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | :----: |
-| Easy       |    6   |
-| Medium     |    1   |
-| Hard       |    0   |
-| **Total**  |  **7** |
+| Easy       |    7   |
+| Medium     |    5   |
+| Hard       |    1   |
+| **Total**  |  **13** |
 
 > *This table is updated as I solve more problems.*
 
