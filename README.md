@@ -22,8 +22,8 @@ leetcode-solutions/
 | ---------- | :----: |
 | Easy       |    7   |
 | Medium     |    7   |
-| Hard       |    1   |
-| **Total**  |  **15** |
+| Hard       |    2   |
+| **Total**  |  **16** |
 
 > *This table is updated as I solve more problems.*
 
