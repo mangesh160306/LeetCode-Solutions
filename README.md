@@ -20,7 +20,7 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | :----: |
-| Easy       |    7   |
+| Easy       |    8   |
 | Medium     |    7   |
 | Hard       |    2   |
 | **Total**  |  **16** |
