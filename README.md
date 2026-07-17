@@ -21,9 +21,9 @@ leetcode-solutions/
 | Difficulty | Solved |
 | ---------- | :----: |
 | Easy       |    8   |
-| Medium     |    8   |
-| Hard       |    2   |
-| **Total**  |  **18** |
+| Medium     |    10   |
+| Hard       |    3   |
+| **Total**  |  **21** |
 
 > *This table is updated as I solve more problems.*
 
