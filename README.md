@@ -106,6 +106,7 @@ leetcode-solutions/
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search Tree
@@ -178,4 +179,16 @@ leetcode-solutions/
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## String
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
