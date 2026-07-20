@@ -59,6 +59,7 @@ leetcode-solutions/
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -166,6 +167,7 @@ leetcode-solutions/
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -191,4 +193,8 @@ leetcode-solutions/
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
