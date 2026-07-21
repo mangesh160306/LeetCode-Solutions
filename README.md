@@ -156,6 +156,7 @@ leetcode-solutions/
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -185,6 +186,7 @@ leetcode-solutions/
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
