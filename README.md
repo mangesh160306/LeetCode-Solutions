@@ -80,6 +80,7 @@ leetcode-solutions/
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -209,4 +210,12 @@ leetcode-solutions/
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mangesh160306/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
